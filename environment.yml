@@ -1,0 +1,8 @@
+name: poliastro37
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.7
+- poliastro=0.11
+- rise
